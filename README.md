@@ -13,3 +13,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * image processing
 * [Breakout_Game](https://github.com/hantsai18/mycode/blob/fb3a5acf7b1f41d52f6107ff9a838f9e38ee73ce/breakout_game/breakout.py)
   * animation & game designing
+* [Hangman_Game](https://github.com/hantsai18/mycode/blob/fb3a5acf7b1f41d52f6107ff9a838f9e38ee73ce/breakout_game/breakout.py)
+  * python semantics & syntax
