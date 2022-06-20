@@ -80,7 +80,6 @@ def draw_names(canvas, name_data, lookup_names):
     """
     draw_fixed_lines(canvas)        # draw the fixed background grid
 
-    # ----- Write your code below this line ----- #
     step = (CANVAS_HEIGHT-2*GRAPH_MARGIN_SIZE)/999
     n = 0
     for name in lookup_names:
@@ -107,7 +106,6 @@ def draw_names(canvas, name_data, lookup_names):
         n += 1
 
 
-# main() code is provided, feel free to read through it but DO NOT MODIFY
 def main():
     # Load data
     name_data = babynames.read_files(FILENAMES)
