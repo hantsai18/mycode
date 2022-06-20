@@ -11,3 +11,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * data structure
 * [Pedestrian_Removing_Application](https://github.com/hantsai18/mycode/blob/ab4d6dee106d7ab5765879b0a940103dd6466d99/pedestrian_removing_application/stanCodoshop.py)
   * image processing
+* [Breakout_Game](https://github.com/hantsai18/mycode/blob/ab4d6dee106d7ab5765879b0a940103dd6466d99/pedestrian_removing_application/stanCodoshop.py)
+  * animation & game designing
