@@ -82,7 +82,6 @@ def solve(images):
     height = images[0].height
     result = SimpleImage.blank(width, height)
     
-    # ----- YOUR CODE STARTS HERE ----- #
     # Write code to populate image and create the 'ghost' effect
     # Get pixel of every image
     for x in range(result.width):
@@ -97,14 +96,12 @@ def solve(images):
             result_p.red = best.red
             result_p.green = best.green
             result_p.blue = best.blue
-    # ----- YOUR CODE ENDS HERE ----- #
     print("Displaying image!")
     result.show()
 
 
 def jpgs_in_dir(dir):
     """
-    (provided, DO NOT MODIFY)
     Given the name of a directory, returns a list of the .jpg filenames
     within it.
 
@@ -122,7 +119,6 @@ def jpgs_in_dir(dir):
 
 def load_images(dir):
     """
-    (provided, DO NOT MODIFY)
     Given a directory name, reads all the .jpg files within it into memory and
     returns them in a list. Prints the filenames out as it goes.
 
@@ -141,7 +137,6 @@ def load_images(dir):
 
 
 def main():
-    # (provided, DO NOT MODIFY)
     args = sys.argv[1:]
     # We just take 1 argument, the folder containing all the images.
     # The load_images() capability is provided above.
